@@ -3,7 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9403ac051f4ed3f3664fdd6cf995bc60",
+  "assets/AssetManifest.json": "81a5506141271a16b4ea6e66b47bd6b0",
+"assets/assets/icons/android-chrome-192x192.png": "79ba976a5d3e8a4b6751a500498397ee",
+"assets/assets/icons/android-chrome-512x512.png": "b5b30e9d90272eb101faa1e503b3d676",
+"assets/assets/icons/apple-touch-icon.png": "f5e9c874159a2fac5ab7188953fe3d12",
+"assets/assets/icons/favicon-16x16.png": "28b92eae96a6f6d4bafdc4133492f591",
+"assets/assets/icons/favicon-32x32.png": "dc7f60e7ac9ec3abf14b4430e430fe28",
+"assets/assets/icons/favicon.ico": "96094458243faff33b945ce922e9dc74",
 "assets/assets/icons/github.png": "bd768db8f4229bb7f1ea238a871ee75d",
 "assets/assets/icons/instagram.png": "74b396f9814982244573381fe49fcd64",
 "assets/assets/icons/wpicon.png": "2d019fad249167595dddc77431e5c187",
@@ -22,14 +28,14 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "28b92eae96a6f6d4bafdc4133492f591",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a3b12655f66ca073861af0b87508af31",
-"/": "a3b12655f66ca073861af0b87508af31",
+"index.html": "e22fb96e25006fd60dcbb95850e01335",
+"/": "e22fb96e25006fd60dcbb95850e01335",
 "main.dart.js": "3551a2fd2a83fffb45aca6f79ac09b8c",
 "manifest.json": "bb7a2b9d356ebc20ac553db58332192b",
 "version.json": "b6bbe7a38e0744aaf89c91c8ee422180"
